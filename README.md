@@ -185,11 +185,3 @@ Untuk opsi command maupun parameter lebih lengkap dapat dilihat pada dokumentasi
 ```bash
 $ man iptables-extension
 ```
-
-**Soal Praktikum**
-
-1. Komputer di subnet MARIMAS tidak diizinkan mengakses server KATSU
-2. Server PIZZA tidak diperbolehkan menerima koneksi SSH
-3. Semua paket yang menuju subnet TEH SISRI akan diarahkan ke JASJUS
-
-![Topologi](img/topologi.jpg)
